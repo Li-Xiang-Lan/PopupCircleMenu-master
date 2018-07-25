@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\WorkFile\PopupCircleMenu-master\PopupCircleMenu.iml" filepath="D:\WorkFile\PopupCircleMenu-master\PopupCircleMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PopupCircleMenu-master.iml" filepath="$PROJECT_DIR$/PopupCircleMenu-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\WorkFile\PopupCircleMenu-master\app\app.iml" filepath="D:\WorkFile\PopupCircleMenu-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupcirclemenu/popupcirclemenu.iml" filepath="$PROJECT_DIR$/popupcirclemenu/popupcirclemenu.iml" />
+      <module fileurl="file://D:\WorkFile\PopupCircleMenu-master\popupcirclemenu\popupcirclemenu.iml" filepath="D:\WorkFile\PopupCircleMenu-master\popupcirclemenu\popupcirclemenu.iml" />
+    </modules>
+  </component>
+</project>
